@@ -1,16 +1,16 @@
 ---
 title           : Orid Ahmed
 type            : participant
-job_title       :
+job_title       :IT security Analist
 company         : Photobox GS
-travel-from     :
+travel-from     :london
 image           :
 linkedin        :
 twitter         :
 facebook        :
 website         :
-email           :
-project_leader  :
+email           :orid.ahmed@photobox.com
+project_leader  :James wharton
 chapter_leader  :
 regonline       :
 pre-summit      :
