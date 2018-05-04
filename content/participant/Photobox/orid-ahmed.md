@@ -1,7 +1,7 @@
 ---
 title           : Orid Ahmed
 type            : participant
-job_title       :IT security Analist
+job_title       : IT security analist
 company         : Photobox GS
 travel-from     :london
 image           :
