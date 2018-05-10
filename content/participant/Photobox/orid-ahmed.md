@@ -21,5 +21,5 @@ notes :
 
 ---
 
-<!-- put more details about participant here -->
+<!-- I am thinking that putting my name down for this, I am been shown budgeting card. very disappointing-->
 
