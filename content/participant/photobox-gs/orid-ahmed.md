@@ -4,7 +4,7 @@ type            : participant
 job_title       :
 company         : Photobox GS
 travel_from     :
-image           : 
+image           : https://avatars3.githubusercontent.com/u/34781920?s=400&u=85bde5cd0f332cafe66774875a07f7b30a6474ad&v=4
 linkedin        :
 twitter         :
 facebook        :
