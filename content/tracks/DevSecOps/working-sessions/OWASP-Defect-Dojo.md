@@ -2,11 +2,20 @@
 title        : OWASP Defect Dojo
 type         : working-session
 track        : DevSecOps
-status       : featured
+topics       : ["Owasp Project"]
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     : yes                   # review with summit team "yes"
+when_day     : Tue
+when_time    : PM-1, PM-2, PM-3
+room_layout  :                    #
+room_number  :
+status       : done              # draft, review-content, done
 categories   : ["OWASP Project"]
 organizers   :
   - Imran Mohammed A
-participants : Francois Raynaud
+  - Manuel Jeckelmann
+participants : Francois Raynaud, Sophie Tonnoir
 description  : Working Sessions for Owasp Defect Dojo
 ---
 An open source vulnerability management tool that streamlines the testing process by offering templating, report generation, metrics, and baseline self-service tools.
@@ -38,4 +47,3 @@ The target audiences for this Working Session are:
 ## Working materials
 https://github.com/DefectDojo/django-DefectDojo
 https://www.owasp.org/index.php/OWASP_DefectDojo_Project
-

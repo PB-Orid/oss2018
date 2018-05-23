@@ -1,15 +1,17 @@
 ---
 title        :
-type         : working-session      # working-session, user-session
+type         : working-session    # working-session, user-session
 technology   :
-categories   :                      # GDPR, Juice Shop, etc.
-status       : review-content       # draft, review, done
-when_date    : tba                  # default = tba
-when_time    : tba                  # default = tba
-room_layout  :                      #
-organizers   :                      # separated by coma
+categories   :                    # GDPR, Juice Shop, etc.
+featured     :                    # review with summit team "yes"
+when_day     :
+when_time    :
+room_layout  :                    #
+room_number  :
+status       : draft              # draft, review-content, done
+organizers   :
 description  :
-participants :                      # separated by coma
+participants :                  
 ---
 
 

@@ -1,10 +1,19 @@
 ---
 title        : Securing GitHub Integrations
 type         : working-session
-status       : review-content
-organizers   : 
-description  :
-participants :
+track        : DevSecOps
+topics       : ["CI Pipeline"]
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     :                    # review with summit team "yes"
+when_day     :  Wed
+when_time    :  AM-1
+room_layout  :                    #
+room_number  :
+status       : review-content              # draft, review-content, done
+organizers   :
+description  : How to secure Github Integrations
+participants : Sophie Tonnoir
 ---
 
 ## Why
