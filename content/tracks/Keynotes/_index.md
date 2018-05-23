@@ -1,8 +1,8 @@
 ---
 title       : Keynotes
-type        : track
+#type        : track
 technology  :
-categories  :
+when_day    : Mon,Thu
 status      : featured
 description : Keynote track featuring talks on Monday and Friday
 organizers  :
