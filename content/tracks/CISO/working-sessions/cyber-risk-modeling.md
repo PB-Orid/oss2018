@@ -10,7 +10,7 @@ room_layout  :                    #
 room_number  :
 status       : draft              # draft, review-content, done
 organizers   : ["Yvette Connor"]
-participants :
+participants : - Naushad Saboor - Orid Ahmed
 description  : Session on Risk Modeling
 ---
 
