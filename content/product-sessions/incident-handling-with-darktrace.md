@@ -17,7 +17,10 @@ description  : Share knowledge on incident handling with DarkTrace
 organizers   :
     - Vladimir Voskresenskiy
     - Dan Gapco
+    
+    
 participants :
+- Orid Ahmed
 ---
 
 ## What
